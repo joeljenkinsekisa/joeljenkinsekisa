@@ -10,11 +10,6 @@ I'm a Data & Business Analyst based in Nairobi, Kenya. I specialize in transform
 * **Tools & Platforms:** Microsoft Dynamics 365, AWS (RDS & S3), GitHub
 * **Specialties:** Data Visualization, KPI Reporting, Financial Analytics, Forecasting, Data Cleaning & Automation
 
-### 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljenkinsekisa\&layout=compact\&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljenkinsekisa\&show_icons=true\&theme=radical)
 
 ### 🚀 Featured Projects
 
