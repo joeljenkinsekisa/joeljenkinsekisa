@@ -19,6 +19,7 @@ I'm a Data & Business Analyst based in Nairobi, Kenya. I specialize in transform
 * Supply Chain & Logistics Performance Dashboard
 * AI Workforce Analytics Dashboard
 * Loan Risk & Portfolio Analysis Dashboard
+* Nairobi Supply Chain Stockout & Supplier Performance Analysis
 
 ### 📫 How to reach me
 
