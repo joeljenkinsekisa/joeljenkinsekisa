@@ -66,20 +66,6 @@ Supplier performance analysis and stockout prediction.
   <img src="https://streak-stats.demolab.com?user=joeljenkinsekisa&theme=green&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/joeljenkinsekisa">
-    <img src="https://github-contributions-api.vercel.app/api?username=joeljenkinsekisa&theme=green&hide_border=true" alt="Contributions" width="400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/joeljenkinsekisa">
-    <img src="https://img.shields.io/github/languages/top/joeljenkinsekisa?style=for-the-badge&color=16a34a" alt="Top Language" />
-    <img src="https://img.shields.io/github/stars/joeljenkinsekisa?style=for-the-badge&color=fbbf24" alt="Stars" />
-    <img src="https://img.shields.io/github/followers/joeljenkinsekisa?style=for-the-badge&color=16a34a" alt="Followers" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
